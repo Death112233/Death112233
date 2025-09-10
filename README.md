@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Death112233
-- 👀 I’m interested in cyber security 
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png" width="20" title="Anonymous"> Anonymous linked
